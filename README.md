@@ -3,5 +3,5 @@
 -  Today, I have solid experience with JavaScript and NodeJS and I'm currently learning framework ReactJS and PostgreSQL database.
 -  I’m looking to collaborate on projects relate to software development and technology.
 -  You can reach me through: 
--   email: rafaelfdgyn@gmail.com
--   linkedin: www.linkedin.com/in/rafaelfgyn
+-   Email: rafaelfdgyn@gmail.com
+-   Linkedin: www.linkedin.com/in/rafaelfgyn
