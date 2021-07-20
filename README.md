@@ -2,4 +2,6 @@
 -  I’m interested in software development
 -  Today, I have solid experience with JavaScript and NodeJS and I'm currently learning framework ReactJS and PostgreSQL database.
 -  I’m looking to collaborate on projects relate to software development and technology.
--  You can reach me through: rafaelfdgyn@gmail.com
+-  You can reach me through: 
+-   email: rafaelfdgyn@gmail.com
+-   linkedin: www.linkedin.com/in/rafaelfgyn
