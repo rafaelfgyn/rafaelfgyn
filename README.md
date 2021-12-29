@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @rafaelfgyn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-rafaelfgyn/rafaelfgyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m fullstack developer interested in web development, programming language and technology.
+- 🌱 I’m currently work with ReactJS, NodeJS and Typescript.
+- 💞️ I’m looking to collaborate on interesting projects with a greate and collaborative team.
+- 📫 You can reach me through: rafaelfdgyn@gmail.com
