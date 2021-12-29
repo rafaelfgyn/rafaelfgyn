@@ -2,4 +2,4 @@
 - 👀 I’m fullstack developer interested in web development, programming language and technology.
 - 🌱 I’m currently work with ReactJS, NodeJS and Typescript.
 - 💞️ I’m looking to collaborate on interesting projects with a greate and collaborative team.
-- 📫 You can reach me through: rafaelfdgyn@gmail.com
+- 📫 You can reach me through: rafaelfdgyn@gmail.com | www.linkedin.com/in/rafaelfgyn
