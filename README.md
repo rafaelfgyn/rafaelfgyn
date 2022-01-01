@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafaelfgyn
+- 👋 Hi, I’m Rafael
 - 👀 I’m fullstack developer interested in web development, programming language and technology.
 - 🌱 I currently work with ReactJS, NodeJS and Typescript.
 - 💞️ I’m looking to collaborate on interesting projects with a great and collaborative team.
